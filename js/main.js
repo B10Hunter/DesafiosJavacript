@@ -27,7 +27,7 @@ form.addEventListener('submit', (event) => {
 
  imagen.innerHTML += `
     <div class ="centrado">
-     <img  src="img/1f60a.png" alt="img">
+     <img  src="./img/1f60a.png" alt="img">
      </div>
  `
    
