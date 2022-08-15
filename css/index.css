@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: 'Lobster', cursive;
+
+}
+
+.navTitulo{
+    
+    background-image: url("../img/marvel.png") ;
+    background-position-y: 392px;
+    background-size: 396px;
+}
+
+.marNav {
+    color: #666665;
+    background-color: #ffffff;
+    border-radius: 39px;
+    border: double 7px black;
+    padding: 7px;
+    font-size: 30px;
+
+}
+
+.imagen{
+    align-items: center;
+}
